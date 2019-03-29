@@ -1,0 +1,28 @@
+.bodyclass {
+  max-height: 900px;
+  max-width: 1000px;
+  background-color: gainsboro;
+  border-radius: 10px;
+  padding: 20px;
+  border: 5px solid black;
+}
+.componentlabel { 
+  padding: 20px;
+  font-size: 20px;
+}
+
+.datacomponent {
+  width: 400px;
+  height: 40px;
+  margin: 20px;
+}
+.inputcomponent{
+  width: 200px;
+  padding: 5px;
+  border: 2px solid grey;
+}
+
+.btn {
+  padding: 20px;
+  width: 120px;
+}

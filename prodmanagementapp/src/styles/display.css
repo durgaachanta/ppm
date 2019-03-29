@@ -1,0 +1,42 @@
+.displayclass {
+  display: inline-block;
+  height: 300px;
+  width: 180px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+  
+}
+
+.imgclass {
+  height: 180px;
+  width: 180px;
+}
+
+.displaylabel {
+  display: block;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.displaybtnedit {
+  background-color: orange;
+  padding: 10px 60px 10px 60px;
+  display: block;
+  width: 180px;
+
+}
+
+.displaybtndelete {
+  background-color: red;
+  padding: 10px 60px 10px 60px;
+  display: block;
+  width: 180px;
+
+}
+
+.astyle {
+  text-decoration: none;
+}

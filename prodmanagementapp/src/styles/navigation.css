@@ -1,0 +1,15 @@
+#navheader {
+  height: 100px;
+  width: 950px;
+  padding: 20px 20px 20px 0px;
+}
+
+.listyle {
+  display: inline-block;
+  padding: 20px 40px 20px 10px;
+  font-size: 30px;
+  border-right: 2px solid black;
+}
+#linkstyle {
+  padding: 0px;
+}
